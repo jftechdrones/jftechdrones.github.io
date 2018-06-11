@@ -1,0 +1,4 @@
+@ECHO OFF
+ECHO Free games now activated
+ECHO TROLOLOLOLOLOLOLOLOL
+PAUSE
